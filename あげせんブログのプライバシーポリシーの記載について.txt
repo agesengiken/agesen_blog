@@ -99,4 +99,6 @@ forms.gle
 
 更新日 :なし
 
+詳しい更新内容、以前のプライバシーポリシーの内容については、 https://github.com/agesengiken/agesen_blog を参照してください。
+
 
